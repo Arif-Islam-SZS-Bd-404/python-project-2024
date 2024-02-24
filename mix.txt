@@ -1,0 +1,82 @@
+#f.{}data name
+
+i = 50
+
+x = 50
+m = (f" my name is arif islam {i+x}  ")
+
+print(m)
+
+# if,else,elif
+
+a = 50 
+b = 80
+
+
+
+# usede if 
+#used else
+k = int (input("inter your number :"))
+
+if k < b:
+    
+    print("mix cyber")
+else:
+    print('project erro')
+
+# if,else,elif
+
+a = 50 
+b = 30
+
+#used elif 
+
+
+
+
+if a == b:
+    ("bad boy")
+elif a < b :
+    print('good boy')
+else:
+    print('system erro')
+#loop 
+# how to used for loop
+
+#for.v.name.in.vlue name 
+
+
+for m in "mix" :
+    print(m)
+
+#loop 
+# how to used for loop
+
+#for.v.name.in.vlue name 
+
+
+arif = ['facebook','telegram','mesenger','imo','whatapp']
+
+for i in arif :
+    if i == "facebook":
+        continue
+    print(i)
+ #how to used while loop
+
+
+i = 0
+while i<=50:
+    print(i)
+    i = i +1
+print ({"project end"})
+
+#how to used while loop
+
+i = 1 
+
+while i < 20:
+    print(i)
+    i +=1
+else:
+    print('mix cyber')
+
