@@ -149,10 +149,46 @@ b = input ("inter your rooll number :")
 print(a)
 print(b)
 
+############################
+########File Handling#######
+############################
+#open()
+
+#read #"r"
+
+#write #"w"
+
+#"a"
+
+#"x"
+
+#"t"
+
+#"b"
+
+#close
+
+#m = open ("d:\\hendel.txt", "x")
 
 
 
 
+#k = open("d:\\hendel.txt", "r")
+
+#k.write("wellcame to cyber zone")
+
+#k.close()
+
+#print(k.read(3))
+
+
+
+import os
+
+os.remove("d:\\hendel.txt")
+
+
+###############################3
 
 
 
