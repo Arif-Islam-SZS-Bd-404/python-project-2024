@@ -1,0 +1,162 @@
+# #####graphis python ####
+
+
+########erroe code#####@##
+
+
+import turtle
+import time
+#error line name 12
+#error code turtle.circle(m)
+for i in range (100):
+    for m in ("red","green"," Purple","yellow"):
+        turtle.circle(m)
+        turtle.forward(i)
+        turtle.left(50)
+
+print(i)
+
+time.sleep(10)
+########erroe code#######
+
+
+import turtle
+import time
+
+arif = turtle.Turtle()
+
+for i in range (100):
+    for m in ("red","green","yellow"):
+        arif.color(m)
+        arif.forward(i)
+        arif.right(30)
+print(i)
+
+time.sleep(10)
+
+
+
+
+
+# import turtle
+# import time
+# import math
+
+
+# turtle.bgcolor("Blue Violet")
+
+# turtle.forward(60)
+# turtle.left(90)
+# turtle.forward(60)
+# turtle.left(90)
+# turtle.forward(60)
+# turtle.left(90)
+# turtle.forward(60)
+# turtle.left(90)
+
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.forward(70)
+# turtle.left(90)
+
+
+# # arif = turtle.Turtle()
+# # for i in range (2*2):
+# #     arif.forward(60)
+# #     arif.left(90)
+    
+
+
+# import turtle
+# import time
+# import math
+
+
+# turtle.bgcolor("Blue Violet")
+
+# # for i in range(60):
+# #     turtle.forward(70)
+# #     turtle.left(90)
+# #     turtle.right(40)
+
+# turtle.forward(70)
+# turtle.left(90)
+# turtle.right(40)
+# turtle.circle(70)
+# turtle.forward(60)
+
+# turtle.circle(50)
+
+
+# time.sleep(10)
+
+# time.sleep(10)
